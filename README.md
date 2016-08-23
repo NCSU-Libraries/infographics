@@ -36,6 +36,6 @@ The Libraries offers access to high-quality lynda.com video tutorials on Hill an
 * [Ten Basic Elements of Design](https://creativemarket.com/blog/2013/12/02/10-basic-elements-of-design)
 
 ### Books
-[Infographics: the power of visual storytelling](http://catalog.lib.ncsu.edu/record/NCSU3459947)
-[Cool infographics: effective communication with data visualization and design](http://catalog.lib.ncsu.edu/record/NCSU3029856)
-[The Best American Infographics](http://catalog.lib.ncsu.edu/search?N=0&Nty=1&Ntk=Keyword&view=full&Ntt=best+american+infographics&sugg=)
+* [Infographics: the power of visual storytelling](http://catalog.lib.ncsu.edu/record/NCSU3459947)
+* [Cool infographics: effective communication with data visualization and design](http://catalog.lib.ncsu.edu/record/NCSU3029856)
+* [The Best American Infographics](http://catalog.lib.ncsu.edu/search?N=0&Nty=1&Ntk=Keyword&view=full&Ntt=best+american+infographics&sugg=)
