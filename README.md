@@ -29,9 +29,9 @@ The Libraries offers access to high-quality lynda.com video tutorials on Hill an
 ## Infographic Design Best Practices
 
 ### Online
-* Two different perspectives on infographic design from Smashing Magazine:
-** [The Do's and Don'ts of Infographic Design](http://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design) by Amy Balliett
-** [The Do's and Don'ts of Infographic Design: Revisited](http://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design) by Nathan Yau
+* Two different perspectives on infographic design from Smashing Magazine  
+  * [The Do's and Don'ts of Infographic Design](http://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design) by Amy Balliett  
+  * [The Do's and Don'ts of Infographic Design: Revisited](https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design-revisited) by Nathan Yau  
 * [Venngage Infographic Design Guide](https://venngage.com/blog/infographic-design)
 * [Ten Basic Elements of Design](https://creativemarket.com/blog/2013/12/02/10-basic-elements-of-design)
 
