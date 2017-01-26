@@ -6,7 +6,7 @@
 * [Venngage](https://venngage.com)  
 
 ### Downloaded Programs
-* PowerPoint is available to NC State students for free. [Get it here.](http://oit.ncsu.edu/software/get-ofc-365) 
+* PowerPoint is available to NC State students for free. [Get it here.](http://oit.ncsu.edu/software/get-ofc-365)
 * [Inkscape](https://inkscape.org/en/) is a free and open source vector graphics editor
 * Adobe Illustrator is professional vector graphic design software available on [multiple Libraries computers](http://www.lib.ncsu.edu/software/adobe-illustrator).
 
@@ -19,8 +19,8 @@ The Libraries offers access to high-quality lynda.com video tutorials on Hill an
 
 ### Online
 * [Design principles using Canva](https://designschool.canva.com/tutorials)
-* [Creating Graphs in Google Sheets](http://goo.gl/AIprC2)
-* [Creating data visualizations with plotly](http://help.plot.ly/tutorials)
+* [Creating graphs in Google Sheets](http://goo.gl/AIprC2)
+* [Creating data visualizations with Plotly](http://help.plot.ly/tutorials)
 * [Color Palette Selector](https://www.materialpalette.com)
 * [Infographic templates on Venngage](https://venngage.com/templates)
 * [Infographic templates on Piktochart](http://piktochart.com/themes)
