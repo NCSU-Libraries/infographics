@@ -1,0 +1,8 @@
+title: Infographics
+description: Resources for learning to create infographics
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
