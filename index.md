@@ -1,5 +1,7 @@
 # Resources for creating infographics
+
 ## Software
+
 ### Online programs
 * [Piktochart](http://piktochart.com)
 * [Canva](https://www.canva.com/create/infographics)
@@ -14,7 +16,8 @@
 
 ### On NCSU Libraries computers
 The Libraries offers access to high-quality lynda.com video tutorials on Hill and Hunt workstations.  
-* [Reserve a Lynda workstation](https://www.lib.ncsu.edu/services/digital-media-production/lynda) 
+
+* [Reserve a Lynda workstation](https://www.lib.ncsu.edu/services/digital-media-production/lynda)
 * [Lynda Courses related to infographics](https://www.lynda.com/Infographics-training-tutorials/1462-0.html)
 
 ### Online
