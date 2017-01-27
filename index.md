@@ -3,7 +3,7 @@
 ### Online programs
 * [Piktochart](http://piktochart.com)
 * [Canva](https://www.canva.com/create/infographics)
-* [Venngage](https://venngage.com)  
+* [Venngage](https://venngage.com)   
 
 ### Downloaded Programs
 * PowerPoint is available to NC State students for free. [Get it here.](http://oit.ncsu.edu/software/get-ofc-365)
@@ -14,17 +14,19 @@
 
 ### On NCSU Libraries computers
 The Libraries offers access to high-quality lynda.com video tutorials on Hill and Hunt workstations.  
-* [Reserve a Lynda workstation](https://www.lib.ncsu.edu/services/digital-media-production/lynda)
+* [Reserve a Lynda workstation](https://www.lib.ncsu.edu/services/digital-media-production/lynda) 
 * [Lynda Courses related to infographics](https://www.lynda.com/Infographics-training-tutorials/1462-0.html)
 
 ### Online
 * [Design principles using Canva](https://designschool.canva.com/tutorials)
 * [Creating graphs in Google Sheets](http://goo.gl/AIprC2)
 * [Creating data visualizations with Plotly](http://help.plot.ly/tutorials)
-* [Color Palette Selector](https://www.materialpalette.com)
 * [Infographic templates on Venngage](https://venngage.com/templates)
 * [Infographic templates on Piktochart](http://piktochart.com/themes)
 * [Infographic templates for Powerpoint](http://offers.hubspot.com/how-to-create-infographics-in-powerpoint)
+* Color Palette Selectors
+  * [Color Brewer](http://colorbrewer2.org): Evidence-based, proven in the field, color-blind options
+  * [Material Pallete](https://www.materialpalette.com): Easy to use, allows custom color palettes
 
 ## Infographic Design Best Practices
 
