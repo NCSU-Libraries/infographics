@@ -3,9 +3,14 @@
 ## Software
 
 ### Online programs
+#### Static and Interactive
 * [Piktochart](http://piktochart.com)
 * [Canva](https://www.canva.com/create/infographics)
-* [Venngage](https://venngage.com)   
+* [Venngage](https://venngage.com)
+* [Visme](https://dashboard.visme.co)
+#### Animated
+* [Powtoon](https://www.powtoon.com/)
+* [Animaker](https://www.animaker.com/infographics) 
 
 ### Downloaded Programs
 * PowerPoint is available to NC State students for free. [Get it here.](http://oit.ncsu.edu/software/get-ofc-365)
@@ -27,6 +32,7 @@ The Libraries offers access to high-quality lynda.com video tutorials on Hill an
 * [Infographic templates on Venngage](https://venngage.com/templates)
 * [Infographic templates on Piktochart](http://piktochart.com/themes)
 * [Infographic templates for Powerpoint](http://offers.hubspot.com/how-to-create-infographics-in-powerpoint)
+* [Icons from The Noun Project](https://thenounproject.com)
 * Color Palette Selectors
   * [Color Brewer](http://colorbrewer2.org): Evidence-based, proven in the field, color-blind options
   * [Material Pallete](https://www.materialpalette.com): Easy to use, allows custom color palettes
